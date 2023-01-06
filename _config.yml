@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shifan(Grace) Jia"
   avatar           : "Selfphoto.jpg"
-  bio              : "First year PhD student in SFU"
+  bio              : "First year Ph.D. student at SFU"
   location         : "8888 University Dr, Burnaby, BC V5A 1S6"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -93,7 +93,6 @@ author:
   dribbble         :
   flickr           :
   foursquare       :
-  google_plus      :
   keybase          :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/shifan-grace-jia-855b73194/"
