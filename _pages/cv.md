@@ -21,25 +21,10 @@ Work experience
   * TConnex lnc
   * Supervisor: Professor.Guozhong
 
-* Fall 2015: Research Assistant
+* Fall 2018: Research Assistant
   * The Institute of Automation, Chinese Academy of Sciences
   * Supervisor: Professor.Chen
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching Assitant
 ======
  * STAT305, 2022 FAll
