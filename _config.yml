@@ -90,19 +90,13 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
   dribbble         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/shifan-grace-jia-855b73194/"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-
 
 # Reading Files
 include:
