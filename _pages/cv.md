@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied  Mathematics, Shaanxi Normal University, 2015
-* M.S. in Statistics, George Washington University, 2021
-* Ph.D in Statistics, Simon Fraser University, 2025 (expected)
+* B.S. in Mathematics and Applied  Mathematics, Shaanxi Normal University, 2015 - 2019
+* M.S. in Statistics, George Washington University, 2019 - 2021
+* Ph.D in Statistics, Simon Fraser University, 2022 - Current
 
 Work experience
 ======
@@ -27,5 +27,5 @@ Work experience
 
 Teaching Assitant
 ======
- * STAT305, 2022 FAll
+ * STAT305, 2022 Fall
  * STAT260/261, 2023 Spring (Currently)
