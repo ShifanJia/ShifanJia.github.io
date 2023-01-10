@@ -25,7 +25,7 @@ Work experience
   * The Institute of Automation, Chinese Academy of Sciences
   * Supervisor: Professor.Chen
 
-Teaching Assitant
+Teaching Assistant
 ======
  * STAT305, 2022 Fall
  * STAT260/261, 2023 Spring (Currently)
