@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : " 8888 University Dr, Burnaby, BC V5A 1S6"
+locale                   : "8888 University Dr, Burnaby, BC"
 title                    : "Shifan Jia"
 title_separator          : "-"
 name                     : &name "Shifan Jia"
@@ -83,7 +83,7 @@ author:
   name             : "Shifan(Grace) Jia"
   avatar           : "Selfphoto.jpg"
   bio              : "First year Ph.D. student at SFU"
-  location         : "8888 University Dr, Burnaby, BC V5A 1S6"
+  location         : "8888 University Dr, Burnaby, BC"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "Shifan_jia@sfu.ca"
