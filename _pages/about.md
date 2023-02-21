@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year statistics PhD student supervised by [Prof.Haolun](https://haoluns.wordpress.com/) at Simon Fraser University. Previously, I graduated from George Washington University with MSc in Statistics. 
+I am a first year statistics Ph.D. student supervised by [Prof.Haolun](https://haoluns.wordpress.com/) and [Prof.Guan](https://brocku.ca/mathematics-science/mathematics/directory/tianyu-guan/#publicationsdeb8-70a5) at Simon Fraser University. Previously, I graduated from George Washington University with MSc in Statistics. 
 
-My current research interests are functional data analysis (FDA) and biostatistics, espeically on function-on-function nonlinear regression model.
+My current research interests are functional data analysis (FDA) and biostatistics, especially on function-on-function nonlinear regression model.
