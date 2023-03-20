@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shifan(Grace) Jia"
+  name             : "Shifan Jia"
   avatar           : "Photo.png"
   bio              : "First year Ph.D. student at SFU"
   location         : "8888 University Dr, Burnaby BC"
@@ -95,7 +95,7 @@ author:
   foursquare       :
   keybase          :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shifan-grace-jia-855b73194/"
+  linkedin         : "https://www.linkedin.com/in/shifan-gracejia-855b73194/"
 
 # Reading Files
 include:
