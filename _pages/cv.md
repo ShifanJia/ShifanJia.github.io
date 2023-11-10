@@ -19,13 +19,14 @@ Work experience
 ======
 * Summer 2020: Data Analyst Intern
   * TConnex lnc
-  * Supervisor: Professor.Guozhong
+  * Supervisor: Prof.Guozhong
 
 * Fall 2018: Research Assistant
   * The Institute of Automation, Chinese Academy of Sciences
-  * Supervisor: Professor.Chen
+  * Supervisor: Prof.Chen
 
 Teaching Assistant
 ======
  * STAT305, 2022 Fall
- * STAT260/261, 2023 Spring (Currently)
+ * STAT260/261, 2023 Spring
+ * STAT342, 2023 Fall
