@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: teaching Assistant
+collection: Teaching Assistant
 type: "Undergraduate course STAT305"
 permalink: /teaching/2022-Fall-teaching-1
 venue: "Simon Fraser University, Department of Statistics"
