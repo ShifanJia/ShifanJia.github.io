@@ -15,16 +15,6 @@ Education
 * M.S. in Statistics, George Washington University, 2019 - 2021
 * Ph.D in Statistics, Simon Fraser University, 2022 - Current
 
-Work experience
-======
-* Summer 2020: Data Analyst Intern
-  * TConnex lnc
-  * Supervisor: Prof.Guozhong
-
-* Fall 2018: Research Assistant
-  * The Institute of Automation, Chinese Academy of Sciences
-  * Supervisor: Prof.Chen
-
 Teaching Assistant
 ======
  * STAT305, 2022 Fall
