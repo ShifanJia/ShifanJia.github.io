@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year statistics Ph.D. student supervised by [Prof.Haolun Shi](https://haoluns.wordpress.com/) and [Prof.Tianyu Guan](https://brocku.ca/mathematics-science/mathematics/directory/tianyu-guan/#publicationsdeb8-70a5) at Simon Fraser University. Previously, I graduated from George Washington University with MSc in Statistics. 
+Welcome! I am a third year statistics Ph.D. student supervised by [Prof.Haolun Shi](https://haoluns.wordpress.com/) and [Prof.Tianyu Guan](https://tianyuguan.github.io/) at Simon Fraser University. Previously, I earned my MSc in Statistics from George Washington University.
 
-My current research focus on functional data analysis (FDA), statistical learning, biostatistics, especially on function-to-function nonlinear regression model.
+My current research focuses on functional data analysis (FDA) and its applications in biostatistics, machine learning (ML) and large language models (LLMs).
