@@ -82,19 +82,12 @@ analytics:
 author:
   name             : "Shifan Jia"
   avatar           : "Photo.png"
-  bio              : "Second year Ph.D. student at SFU"
+  bio              : "Statistics Ph.D. at SFU"
   location         : "8888 University Dr, Burnaby BC"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=d4s_U0kAAAAJ"
   email            :  "Shifan_jia@sfu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  dribbble         :
-  flickr           :
-  foursquare       :
-  keybase          :
-  lastfm           :
   linkedin         : "www.linkedin.com/in/shifan-gracejia-855b73194"
 
 # Reading Files
