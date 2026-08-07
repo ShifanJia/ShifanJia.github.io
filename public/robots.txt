@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shifanjia.github.io/sitemap.xml
