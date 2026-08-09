@@ -1,0 +1,81 @@
+:root {
+  --main-bg: #fbfaf8;
+  --text-color: #111111;
+  --muted-color: #5f6368;
+  --accent: #0f172a;
+  --border-color: rgba(15, 23, 42, 0.12);
+  --content-width: 860px;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--main-bg);
+  color: var(--text-color);
+  line-height: 1.7;
+  letter-spacing: -0.01em;
+}
+
+.main {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+}
+
+.post-entry, .post-content, .post-header, .entry-content {
+  max-width: var(--content-width);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Georgia", "Times New Roman", serif;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  color: var(--accent);
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.7rem;
+}
+
+p, li {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+a:hover {
+  border-bottom-color: var(--accent);
+}
+
+.post-title {
+  font-size: 2rem;
+}
+
+.header {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+.nav {
+  gap: 1rem;
+}
+
+.nav a {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.profile {
+  margin-bottom: 1.5rem;
+}
+
+img {
+  border-radius: 0.5rem;
+}
