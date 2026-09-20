@@ -345,8 +345,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Jia]
+  first_name: [Shifan, S.]
 
   style: apa
   locale: en
@@ -374,8 +374,8 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  google_scholar: false # Scholar citation badges need a working scraper; the profile link still works
+  inspirehep: false # Inspire HEP is for physics papers and is not used here
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:

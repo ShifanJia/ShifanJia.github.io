@@ -1,33 +1,30 @@
 name: Update Google Scholar Citations
 
+# Google Scholar blocks scrapers from GitHub Actions IPs, so the scheduled
+# updater fails on every run. Keep this manual-only until Scholar access is
+# reliable again. The Scholar profile link still works from _data/socials.yml.
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
 jobs:
   update-citations:
     runs-on: ubuntu-latest
+    continue-on-error: true
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See docs/CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
-      #        with:
-      #          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.13"
 
-      - name: Install dependencies
+      - name: Install citation-script dependencies
         run: |
-          echo "🔧 Installing dependencies..."
+          echo "🔧 Installing citation-script dependencies..."
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install pyyaml scholarly
 
       - name: Save current citations.yml hash
         id: before
@@ -45,6 +42,7 @@ jobs:
       - name: Run citation update script
         id: run_citation_update
         shell: bash
+        continue-on-error: true
         run: |
           set +e
           echo "🚀 Running citation update script (single attempt)..."
@@ -56,10 +54,10 @@ jobs:
             echo "✅ Citation update succeeded (started at $start_time, ended at $end_time)."
             echo "✅ Citation update succeeded." >> $GITHUB_STEP_SUMMARY
           else
-            echo "❌ Citation update script failed with exit code $status (started at $start_time, ended at $end_time)."
-            echo "❌ Citation update script failed with exit code $status." >> $GITHUB_STEP_SUMMARY
+            echo "⚠️ Citation update skipped or blocked by Google Scholar (exit code $status)."
+            echo "⚠️ Citation update skipped or blocked by Google Scholar (exit code $status)." >> $GITHUB_STEP_SUMMARY
           fi
-          set -e
+          exit 0
 
       - name: Save new citations.yml hash
         id: after

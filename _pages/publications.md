@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications and doctoral research will be featured here as they become available.
+description: Selected publications and the full Google Scholar profile for Shifan Jia.
 nav: true
 nav_order: 3
 ---
@@ -11,5 +11,10 @@ nav_order: 3
 
 <section class="content-panel">
   <h2>Publications</h2>
-  <p>Publications and Ph.D. research coming soon.</p>
+  <p>Papers are listed below. The complete, continuously updated record is on Google Scholar.</p>
+  <div class="hero-actions">
+    <a class="btn btn-primary" href="https://scholar.google.com/citations?user=d4s_U0kAAAAJ&hl=en" target="_blank" rel="noopener">View Google Scholar profile</a>
+  </div>
 </section>
+
+<div class="publications content-panel">{% bibliography %}</div>

@@ -15,7 +15,7 @@ profile:
     <p>PhD in Statistics</p>
 
 selected_papers: false
-social: false
+social: true
 announcements:
   enabled: false
 latest_posts:
@@ -31,6 +31,9 @@ latest_posts:
     <p class="lead">My research focuses on multimodal learning, survival analysis, and functional data analysis. I’m particularly interested in connecting rigorous statistical methods with practical AI systems.</p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="{{ '/assets/pdf/shifan_jia_cv.pdf' | relative_url }}" download>Download CV</a>
+      <a class="btn btn-outline" href="https://scholar.google.com/citations?user=d4s_U0kAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+      <a class="btn btn-outline" href="https://www.linkedin.com/in/shifan-gracejia-855b73194" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="btn btn-outline" href="https://github.com/ShifanJia" target="_blank" rel="noopener">GitHub</a>
     </div>
   </div>
 </div>

@@ -99,6 +99,14 @@ body {
   margin-bottom: 1rem;
 }
 
+.publications.content-panel {
+  overflow-x: auto;
+}
+
+.publications a {
+  color: var(--accent);
+}
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

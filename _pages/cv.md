@@ -56,10 +56,11 @@ nav_order: 4
 
   <section class="content-panel">
     <h2>Selected Publications</h2>
+    <p><a href="https://scholar.google.com/citations?user=d4s_U0kAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar profile</a></p>
     <ul>
-      <li>Jia, S., Shi, H., and Guan, T. “Function-on-Function Regression Models with Nonlinear Dynamic Effect and Linear Concurrent Effect.” <em>Statistics and Computing</em> (2025).</li>
-      <li>Sun, Y. et al. “Alzheimer’s Detection Based on EEG Source Imaging and Frequency-Joint Attention Fusion Network.” <em>Journal of Neural Engineering</em> (2025).</li>
-      <li>Feng, L. et al. “Supervised Contrastive Learning-Based Adaptive Multi-Scale Time-Frequency Network for Motor Imagery Decoding.” <em>Biomedical Signal Processing and Control</em> (2025).</li>
+      <li>Jia, S., Shi, H., and Guan, T. “<a href="https://doi.org/10.1007/s11222-025-10578-x" target="_blank" rel="noopener">Function-on-Function Regression Models with Nonlinear Dynamic Effect and Linear Concurrent Effect</a>.” <em>Statistics and Computing</em> (2025).</li>
+      <li>Sun, Y. et al. “<a href="https://doi.org/10.1088/1741-2552/add8bb" target="_blank" rel="noopener">Enhanced Alzheimer’s Detection with EEG Source Imaging and Multi-Branch Joint Attention</a>.” <em>Journal of Neural Engineering</em> (2025).</li>
+      <li>Deng, Z., Feng, L., Jia, S., and Xu, B. “<a href="https://doi.org/10.1016/j.bspc.2026.109870" target="_blank" rel="noopener">Supervised Contrastive Learning-Based Adaptive Multi-Scale Time-Frequency Network for Motor Imagery Decoding</a>.” <em>Biomedical Signal Processing and Control</em> (2026).</li>
     </ul>
   </section>
 </div>
