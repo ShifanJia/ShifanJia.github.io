@@ -82,9 +82,23 @@ body {
   color: #fff;
 }
 
+.btn-outline {
+  border: 1px solid var(--border);
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
 .content-panel {
   padding: 1.25rem 1.4rem;
   margin-bottom: 1rem;
+}
+
+.publications.content-panel {
+  overflow-x: auto;
+}
+
+.publications a {
+  color: var(--accent);
 }
 
 .project-grid {
